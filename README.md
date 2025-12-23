@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
+<h3 align="center">Python Learner | Beginner Software Developer | Tech Enthusiast</h3>
 
-<!--
-**Tanish-Gupta21/Tanish-Gupta21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I am learning **Python & Programming Fundamentals**
+- Interested in **Backend Development & Problem Solving**
+- Currently working on **Python Projects**
+- Improving my skills in **OOPS & File Handling**
 
-Here are some ideas to get you started:
+## Skills & Technologies
+### 🔹 Programming Languages
+- Python (Core, OOPS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Concepts
+- Object-Oriented Programming (OOPS)
+- File Handling (JSON)
+- Data Structures (Basic)
+- CLI Applications
+
+### 🔹 Tools
+- Git & GitHub
+- VS Code
+- Command Line
+
+---
+
+## Projects
+**Bank Management System (Python)**
+  - Account creation, deposit, withdraw, update & delete
+  - Uses JSON for data storage
+  - OOPS based console application
