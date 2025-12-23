@@ -9,6 +9,7 @@
 
 ## Skills & Technologies
 ### 🔹 Programming Languages
+- HTML, CSS & Javascript
 - Python (Core, OOPS)
 
 ### 🔹 Concepts
