@@ -23,6 +23,7 @@
 - Git & GitHub
 - VS Code
 - Command Line
+- Jupyter Notebook
 
 ---
 
