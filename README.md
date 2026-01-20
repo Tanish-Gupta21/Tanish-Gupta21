@@ -11,6 +11,7 @@
 ### 🔹 Programming Languages
 - HTML, CSS & Javascript
 - Python (Core, OOPS)
+- MySQL
 
 ### 🔹 Concepts
 - Object-Oriented Programming (OOPS)
