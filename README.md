@@ -15,17 +15,17 @@
   
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Focus:** Building real-world projects, especially in AI and data-based applications  
-- 🌱 **Learning:** Python, Java, C, and modern development tools  
-- 📊 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
-- 🤝 **Collaboration:** Open to working on innovative and AI-based projects  
-- 💡 **Goal:** Improve problem-solving skills and gain practical experience  
+-  **Focus:** Building real-world projects, especially in AI and data-based applications  
+-  **Learning:** Python, Java, C, and modern development tools  
+-  **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+-  **Collaboration:** Open to working on innovative and AI-based projects  
+-  **Goal:** Improve problem-solving skills and gain practical experience  
 
 <br clear="right">
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="150" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
@@ -58,4 +58,4 @@
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect with M
