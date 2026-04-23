@@ -38,8 +38,9 @@
 ##  Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Gupta21&theme=transparent&hide_border=true" />
 </div>
+
 
 ---
 
@@ -59,4 +60,12 @@
 
 ---
 
-## 🤝 Connect with M
+## 🤝 Connect with Me
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-gupta-96a836378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
