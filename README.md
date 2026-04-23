@@ -61,7 +61,6 @@
 ---
 
 ## 🤝 Connect with Me
-## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanish-gupta-96a836378" target="_blank">
