@@ -48,6 +48,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanish-Gupta21&label=Profile%20Views&style=for-the-badge&color=blue" />
+</div>
+
+
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC)
