@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanish-gupta-96a836378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
