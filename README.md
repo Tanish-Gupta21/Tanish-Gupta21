@@ -17,11 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-
+<img align="right" width="250" src="https://assets.website-files.com/5f7ece8a7da656e8a25402bc/60c8c7cbb6b5a66c1c3b8b7f_Developer.gif">
 
 
 
