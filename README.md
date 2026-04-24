@@ -52,7 +52,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanish-Gupta21&label=Profile%20Views&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username&label=Profile%20Views&style=for-the-badge&color=blue" />
 </div>
 
 <a href="https://twitter.com/Tanish_Gupta99" target="_blank">
