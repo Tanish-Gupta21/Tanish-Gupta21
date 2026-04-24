@@ -64,7 +64,7 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### Data Science
+###  Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)
