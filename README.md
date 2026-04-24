@@ -55,6 +55,10 @@
   <img src="https://komarev.com/ghpvc/?username=Tanish-Gupta21&label=Profile%20Views&style=for-the-badge&color=blue" />
 </div>
 
+<a href="https://twitter.com/Tanish_Gupta99" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 
 ## 🛠️ Languages and Tools
 
