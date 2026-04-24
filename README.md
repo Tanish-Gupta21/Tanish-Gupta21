@@ -17,7 +17,8 @@
 
 ## 👨‍💻 About Me
 
-  <img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 
 -  **Focus:** Building real-world projects, especially in AI and data-based applications  
