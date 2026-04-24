@@ -17,7 +17,8 @@
 
 ## 👨‍💻 About Me
 
-  <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284100-8e4d4f6c-1c63-4f3e-9a9c-ff2f0b98c6f4.gif">
+
 
 
 
