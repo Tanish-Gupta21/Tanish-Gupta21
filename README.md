@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="30" height="30">
   </h1>
   
-  <h3 align="center">Aspiring Software Developer | Python & AI Enthusiast</h3>
+  <h3 align="center">Aspiring Software Developer | AI Explorer</h3>
   <p align="center">I learn by building real-world projects and turning ideas into practical solutions 🚀</p>
 </div>
 
