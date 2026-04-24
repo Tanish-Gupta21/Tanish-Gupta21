@@ -6,7 +6,7 @@
   </h1>
   
   <h3 align="center">Aspiring Software Developer | AI Explorer</h3>
-  <p align="center">I learn by building real-world projects and turning ideas into practical solutions 🚀</p>
+  <p align="center">I learn by building real-world projects and turning ideas into practical solutions </p>
 </div>
 
 ---
@@ -16,8 +16,9 @@
 
 
 ## 👨‍💻 About Me
-  
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+  <img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 -  **Focus:** Building real-world projects, especially in AI and data-based applications  
 -  **Learning:** Python, Java, C, and modern development tools  
