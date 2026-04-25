@@ -79,6 +79,16 @@
 
 ---
 
+
+## 🏆 Achievements
+
+- Participated in Google Solution Challenge 2026
+- Participated in AI IMPACT SUMMIT 2026 
+- Built real-world AI projects  
+  
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
