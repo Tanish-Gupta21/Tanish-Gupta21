@@ -84,7 +84,9 @@
 
 - Participated in Google Solution Challenge 2026
 - Participated in AI IMPACT SUMMIT 2026 
-- Built real-world AI projects  
+- Built real-world AI projects
+- OpScape 2.0 Hackathone(IIM Trichy)-Participant
+- Introductry Options Hackathone(IIT Guwahati)-Participant 
   
 
 ---
