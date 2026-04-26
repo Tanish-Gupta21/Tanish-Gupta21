@@ -32,7 +32,7 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanish-Gupta21&show_icons=true&theme=transparent&hide_border=true" height="150" />
@@ -42,7 +42,7 @@
 
 ---
 
-##  Streak Stats
+## ⏳ Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Gupta21&theme=transparent&hide_border=true" />
@@ -57,7 +57,7 @@
 
 
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 ###  Languages
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC)
