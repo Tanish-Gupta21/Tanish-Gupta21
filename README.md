@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Exploring AI + Machine Learning;Java+%26+DevOps+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Explorer+AI;Java+%26+DevOps+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 
