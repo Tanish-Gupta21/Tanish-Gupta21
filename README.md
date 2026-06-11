@@ -84,7 +84,7 @@
 ## 🏆 Achievements
 
 - Participated in Google Solution Challenge 2026 (https://www.linkedin.com/feed/update/urn:li:activity:7456645613255049216/)
-- Participated in AI IMPACT SUMMIT 2026 (https://www.linkedin.com/in/tanish-gupta-96a836378/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF1iQOIBZOH2CvHvKuspnLtjPybCsCC5oZk)
+- Participated in AI IMPACT SUMMIT 2026 (https://www.linkedin.com/posts/tanish-gupta-96a836378_aiimpactsummit-aisashakt-artificialintelligence-activity-7429502722703482880-5eQA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF1iQOIBZOH2CvHvKuspnLtjPybCsCC5oZk)
 - Built real-world AI projects
 - OpScape 2.0 Hackathone(IIM Trichy)-Participant
 - Introductry Options Hackathone(IIT Guwahati)-Participant 
